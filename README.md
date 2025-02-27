@@ -82,43 +82,43 @@ Agile might be advantageous for really complicated projects that need a great de
 
 Methods for Ensuring Quality Assurance:
 
-Requirements Analysis – Ensuring requirements are clear, complete, and testable.
+-Requirements Analysis – Ensuring requirements are clear, complete, and testable.
 
-Code Reviews – Developers review code for defects and adherence to standards.
+-Code Reviews – Developers review code for defects and adherence to standards.
 
-Unit Testing – Verifying individual components function as intended.
+-Unit Testing – Verifying individual components function as intended.
 
-Integration Testing – Ensuring different software components interact correctly.
+-Integration Testing – Ensuring different software components interact correctly.
 
-System Testing – Testing the entire software system against requirements.
+-System Testing – Testing the entire software system against requirements.
 
-User Acceptance Testing – Validating the software from an end-user perspective.
+-User Acceptance Testing – Validating the software from an end-user perspective.
 
-Automated Testing – Using tools for repetitive tests like regression testing.
+-Automated Testing – Using tools for repetitive tests like regression testing.
 
-Performance Testing – Assessing software under various conditions, including heavy load.
+-Performance Testing – Assessing software under various conditions, including heavy load.
 
-Security Testing – Identifying vulnerabilities and ensuring system security.
+-Security Testing – Identifying vulnerabilities and ensuring system security.
 
-Usability Testing – Evaluating UI/UX for ease of use.
+-Usability Testing – Evaluating UI/UX for ease of use.
 
-Continuous Integration & Deployment – Automating build, test, and deployment for reliable releases.
+-Continuous Integration & Deployment – Automating build, test, and deployment for reliable releases.
 
 Importance of Maintaining High Standards:
 
-Enhanced User Satisfaction
+-Enhanced User Satisfaction
 
-Reduced Costs
+-Reduced Costs
 
-Improved Reliability
+-Improved Reliability
 
-Increased Security
+-Increased Security
 
-Stronger Reputation
+-Stronger Reputation
 
-Risk Mitigation
+-Risk Mitigation
 
-Compliance
+-Compliance
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 
