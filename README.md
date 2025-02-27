@@ -5,29 +5,29 @@
 
 Why Timely Delivery Is Crucial:
  
-Enables companies to take advantage of market possibilities and maintain an advantage over rivals.
+-Enables companies to take advantage of market possibilities and maintain an advantage over rivals.
 
-Aids in maintaining project budgets.
+-Aids in maintaining project budgets.
 
-Guarantees that the finished product satisfies the necessary requirements.
+-Guarantees that the finished product satisfies the necessary requirements.
 
-Identifies and mitigates risks.
+-Identifies and mitigates risks.
 
-Builds a reputation for reliability and professionalism, which can attract new clients and strengthen existing relationships.
+-Builds a reputation for reliability and professionalism, which can attract new clients and strengthen existing relationships.
 
 How Project Managers Can Ensure Deadlines Are Met:
 
-It is crucial to make sure the project team has the equipment and resources they need to finish their work.
+-It is crucial to make sure the project team has the equipment and resources they need to finish their work.
 
-Delays and expensive rework can be avoided by ensuring code quality through automated testing and code reviews.
+-Delays and expensive rework can be avoided by ensuring code quality through automated testing and code reviews.
 
-Finding possible delays and taking corrective action can be facilitated by routinely tracking key performance indicators (KPIs) and progress.
+-Finding possible delays and taking corrective action can be facilitated by routinely tracking key performance indicators (KPIs) and progress.
 
-Scrum and Kanban are two examples of agile approaches that can enhance flexibility and adaptation.
+-Scrum and Kanban are two examples of agile approaches that can enhance flexibility and adaptation.
 
-Delays can be avoided via early risk identification and mitigation.
+-Delays can be avoided via early risk identification and mitigation.
 
-Communicating openly and honestly with stakeholders and team members
+-Communicating openly and honestly with stakeholders and team members
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 
